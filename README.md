@@ -10,10 +10,6 @@
 - **Proyectos de Ingeniería de Datos** 
 - **Análisis y Visualización** 
 - **Herramientas Tecnológicas**
-
-  <img align="left" height="150" src="https://media.tenor.com/rxSNGOcPmagAAAAd/smiling-barbie.gif"  />
-
-
 ###
 
 <div align="center">
@@ -44,7 +40,7 @@
 </div>
 
 ###
-
+  <img align="left" height="150" src="https://media.tenor.com/rxSNGOcPmagAAAAd/smiling-barbie.gif"  />
 ###
 
 <div align="center">
